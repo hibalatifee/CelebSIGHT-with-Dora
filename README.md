@@ -44,4 +44,4 @@ python narrator.py
 ```
 
 ### Hiba's notes for CelebSIGHT
-Would need access to OpenAI API key and Eleven Labs (paid subscription) for running this. Also, this runs with Python 3.10 version. Run this with Streamlit (Streamlit run narrator.py). Will need to run capture.py first when running this program. Open this repo in Visual Studio Code. Rest stays the same as above. 
+Would need access to OpenAI API key and Eleven Labs (paid subscription) for running this. No need to make a .env file for this, you can paste the OpenAI and ElevenLabs API keys into the terminal before running narrator.py. Also, this runs with Python 3.10 version. Run this with Streamlit (Streamlit run narrator.py). Will need to run capture.py first when running this program. Open this repo in Visual Studio Code. Rest stays the same as above. 
