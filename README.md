@@ -43,3 +43,5 @@ In another terminal, run the narrator:
 python narrator.py
 ```
 
+### Hiba's notes for CelebSIGHT
+Would need access to OpenAI API key and Eleven Labs (paid subscription) for running this. Also, this runs with Python 3.10 version. Run this with Streamlit (Streamlit run narrator.py). Will need to run capture.py first when running this program. Open this repo in Visual Studio Code. Rest stays the same as above. 
